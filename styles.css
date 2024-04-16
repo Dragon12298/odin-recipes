@@ -1,0 +1,32 @@
+.title {
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#link{
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    color: red;
+    background-color: black;
+}
+
+#list {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    font-style: italic;
+}
+
+.d {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    color: aqua;
+    background-color: blueviolet;
+}
