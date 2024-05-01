@@ -1,32 +1,92 @@
 .title {
-    color: white;
-    background-color: black;
     text-align: center;
-    font-size: 60px;
+    font-size: 40px;
     font-family: 'Times New Roman', Times, serif;
 }
 
+.l{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
 #link{
-    font-size: 36px;
+    font-size: 24px;
     font-weight: bold;
+    padding: 14px;
+    display: inline-table;
+    margin: 0;
+    padding: 24px;
+    text-align: center;
+}
+
+#main{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;  
+}
+
+.d {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
 }
 
 .p {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 100;
-    color: red;
-    background-color: black;
+}
+
+h2 {
+    display: block;
+    text-align: center;
+    margin-left: 108px;
+    margin-right: 108px;
 }
 
 #list {
     font-family: 'Times New Roman', Times, serif;
     font-size: 16px;
     font-style: italic;
+    display: block;
+    background-color: rgb(85, 216, 45);
 }
 
-.d {
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 200;
-    color: aqua;
-    background-color: blueviolet;
+#pic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+p{
+    display: block;
+    padding: 15px;
+    text-align: center;
+}
+
+body {
+    background-color: rgb(117, 194, 199);
+}
+
+.ingredients{
+    display: block;
+    margin-left: 250px;
+    margin-right: 250px;
+    text-align: left;
+}
+h3{
+    display: block;
+    margin-left: 250px;
+    margin-right: 250px;
+    background-color: rgb(85, 216, 45);
+    text-align: center;
+    margin-bottom: 0;
+    border-style: solid ;
+    border-color: black;
+    margin-bottom: -10px;
+}
+html{
+    margin-left: 300px;
+    margin-right: 300px;
 }
